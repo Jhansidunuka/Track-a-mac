@@ -1,1 +1,2 @@
 # track-a-mac
+The aim of the project is to create a solution that allows us to track where MAC numbers connect to our network, which is done by probing the network switches periodically, and retrieving their ForwardingTables. Using the collected information, developed solution searchs (WEB/RESTapi) for a specific MAC address (including wildcards). If a match is found, the response should return what switches, vlans and ports are aware of the MAC address, and identifies what port is the connection port.
