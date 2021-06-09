@@ -628,6 +628,7 @@ python3-secretstorage				install
 python3-serial					install
 python3-service-identity			install
 python3-setuptools				install
+python3-easysnmp				install
 python3-six					install
 python3-software-properties			install
 python3-systemd					install
